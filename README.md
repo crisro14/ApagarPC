@@ -30,4 +30,4 @@ Si prefieres compilar el código tú mismo por seguridad, es muy fácil. No nece
 5. Verás un nuevo archivo **`ApagarPC.exe`** en la carpeta. ¡Ese es tu programa!
 
 ---
-*Desarrollado con ❤️ para Windows.*
+
